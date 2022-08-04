@@ -1,0 +1,2 @@
+file2 dosyası olusturuldu.
+file 2 dosyası ismi file3 olarak degistirildi.
